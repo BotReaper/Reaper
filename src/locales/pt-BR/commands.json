@@ -1,0 +1,10 @@
+{
+  "botinfo": {
+    "description": "**Prefixo**: `{{prefix}}`\n**Idioma**: `{{language}}`\nAlô, alô, câmbio! Olá, sou **Reaper**, um bot criado por **cassiomartim#2019** para lhe **ajudar** em suas **respectivas situações**.\n**Online há**: `{{uptime}}`\nAtualmente trabalhando para **{{guilds}} servidores**, com **{{users}} usuários** utilizando os meus **{{commands}} comandos**!\nAcesse o meu [**repositório**]({{githubRepository}}) no [**Github**](https://github.com), entre também em meu servidor de [**suporte**]({{supportInvite}}).",
+
+    "field": {
+      "title": "Links:",
+      "description": "- [**Repositório**]({{githubRepository}})\n- [**Suporte**]({{supportInvite}})"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "botinfo": {
+    "description": "**Prefix**: `{{prefix}}`\n**Language**: `{{language}}`\nHello, hello, exchange! Hi, I'm **Reaper**, a bot created by **cassiomartim#2019** to **help you** in your **respective situations**.\n**Online ago**: `{{uptime}}`\nCurrently working for **{{guilds}} guilds**, with **{{users}} users** using mine **{{commands}} commands**!\nAccess my [**repository**]({{githubRepository}}) in [**Github**](https://github.com), also enter my server [**support**]({{supportInvite}}).",
+
+    "field": {
+      "title": "Links:",
+      "description": "- [**Repository**]({{githubRepository}})\n- [**Support**]({{supportInvite}})"
+    }
+  }
+}
