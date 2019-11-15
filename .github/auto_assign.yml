@@ -1,0 +1,12 @@
+addReviewers: true
+
+addAssignees: true
+
+reviewers:
+  - cassiomartim
+  - itnlo
+
+skipKeywords:
+  - wip
+
+numberOfReviewers: 0
