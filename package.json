@@ -1,0 +1,24 @@
+{
+  "name": "reaper-dev",
+  "version": "1.0.0",
+  "description": "Bot Brasilerio",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "dotenv": "^8.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BotReaper/reaper-dev.git"
+  },
+  "author": "cassiomartim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BotReaper/reaper-dev/issues"
+  },
+  "homepage": "https://github.com/BotReaper/reaper-dev#readme"
+}
